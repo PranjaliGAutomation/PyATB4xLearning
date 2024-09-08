@@ -1,0 +1,3 @@
+a_very_long_name_of_the_variable ="Pranjali"
+print(a_very_long_name_of_the_variable)
+print(type(a_very_long_name_of_the_variable))

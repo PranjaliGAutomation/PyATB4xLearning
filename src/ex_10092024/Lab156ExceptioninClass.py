@@ -1,0 +1,4 @@
+#custom exception
+
+class MyCustomException
+    
